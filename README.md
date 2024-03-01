@@ -10,4 +10,4 @@ for microsoft
 ![Attended](https://github.com/smitwaman/PersonalData/blob/main/)
 
 Cloud Engineer
-![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
+![Programming](
