@@ -3,10 +3,10 @@ Name-Smit Waman
 
 Career movements with self learnings and self motivation...
 
-Stated with networking for telecom support
-Networking
+In actually I have started with networking for telecom support
+Networking after my engineering.
 
-![Networking](https://github.com/smitwaman/PersonalData/blob/main/certificates%2Ftelecom%20networking.pdf)
+![Networking](https://github.com/smitwaman/PersonalData/blob/main/Picsart_24-03-02_00-56-12-384.png)
 
 Programming
 ![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
