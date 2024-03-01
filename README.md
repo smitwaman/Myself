@@ -5,9 +5,9 @@ Career movements with learnings
 Programming
 ![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
 for devops
-![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
+![completed](https://github.com/smitwaman/PersonalData/blob/main/Picsart_24-03-02_00-03-17-462.png)
 for microsoft
-![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
+![Attended](https://github.com/smitwaman/PersonalData/blob/main/)
 
 Cloud Engineer
 ![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
