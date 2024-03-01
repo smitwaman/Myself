@@ -3,7 +3,7 @@ Name-Smit Waman
 
 Career movements with self learnings and self motivation...
 Hardware...Windows...Ubuntu
-I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have already hardware and operating system knowledge not like pro hacker but little much.
+I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have already hardware and operating system's knowledge not like pro hacker but little much.
 
 In actually I have started with networking for telecom support in
 Networking after my engineering.
