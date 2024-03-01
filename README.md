@@ -5,9 +5,9 @@ Career movements with self learnings and self motivation...
 
 Programming
 ![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
-for devops
+For DEVOPS
 ![completed](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-02_00-03-17-462.png)
-for microsoft windows server and azure devops pipeline 
+for Microsoft Windows Server and Azure DEVOPS Pipeline 
 ![Attended](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-02_00-05-36-319.png)
 
 Cloud Engineer
