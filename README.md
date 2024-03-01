@@ -3,6 +3,11 @@ Name-Smit Waman
 
 Career movements with self learnings and self motivation...
 
+Stated with networking for telecom support
+Networking
+
+![Networking](https://github.com/smitwaman/PersonalData/blob/main/certificates%2Ftelecom%20networking.pdf)
+
 Programming
 ![Programming](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-54-21-316.png)
 For DEVOPS
