@@ -7,7 +7,7 @@ Hardware...Windows...Ubuntu
 I was playing,formatting,configuring,troubleshooting and repairing computers and OS during my engineering drop out years from 2014 to 2016.
 
 
-I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have already hardware and operating system's knowledge not like pro hacker but little much.
+I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have hardware and operating system's knowledge not like pro hacker but little much.
 
 In actually I have started with networking for telecom support in
 Networks after my engineering.
@@ -19,7 +19,7 @@ Programming
 For DEVOPS
 ![completed](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-02_00-03-17-462.png)
 for Microsoft Windows Server and Azure DEVOPS Pipeline 
-![Attended](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-02_00-05-36-319.png)
+![Attended](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-02_00-05-36-319.p
 
 Cloud Engineer
 ![Practicing](https://github.com/smitwaman/PersonalData/blob/main/certificates/Picsart_24-03-01_23-27-20-456.png)
