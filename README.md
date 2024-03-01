@@ -1,4 +1,11 @@
 # Myself
 Name-Smit Waman
+Career movements with learnings
 
-![personal image](https://github.com/smitwaman/PersonalData/blob/main/ADHAR%20PAN/IMG_20220614_122821.jpg)
+Programming
+
+for devops
+
+for microsoft
+
+
