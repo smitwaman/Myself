@@ -4,7 +4,7 @@ Name-Smit Waman
 Career movements with self learnings and self motivation...
 Hardware...Windows...Ubuntu
 
-I was playing,formatting,configuring,troubleshooting and repairing computers and OS during my engineering drop out years from 2014 to 2016. My area of interest was business.
+I was playing,formatting,configuring,troubleshooting and repairing computers and OS during my engineering drop out years from 2014 to 2016.
 
 
 I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have already hardware and operating system's knowledge not like pro hacker but little much.
