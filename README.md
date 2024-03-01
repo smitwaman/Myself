@@ -10,7 +10,7 @@ I was playing,formatting,configuring,troubleshooting and repairing computers and
 I am an electronics and telecommunication pass out engineer from Pune University in 2017.I have already hardware and operating system's knowledge not like pro hacker but little much.
 
 In actually I have started with networking for telecom support in
-Networking after my engineering.
+Networks after my engineering.
 
 ![Networking](https://github.com/smitwaman/PersonalData/blob/main/Picsart_24-03-02_00-56-12-384.png)
 
