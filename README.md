@@ -12,7 +12,7 @@ I am an electronics and telecommunication pass out engineer from Pune University
 In actually I have started with networking for telecom support in
 Networks after my engineering.
 
-[RESUME](https://github.com/smitwaman/Myself/blob/main/SmitWaman2024.pdf)
+[✍️ CLICK TO CHECK MY CARREE RESUME](https://github.com/smitwaman/Myself/blob/main/SmitWaman2024.pdf)
 
 ![Networking](https://github.com/smitwaman/PersonalData/blob/main/Picsart_24-03-02_00-56-12-384.png)
 
